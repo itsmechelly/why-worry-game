@@ -10275,8 +10275,10 @@ form .row:first-child .floating-label-form-group {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
+  /* background: url("/assets/img/gaur-gopal.jpg") no-repeat center center; */
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/gaur-gopal.jpg");
-  background-position: center center;
+  /* background-position: center center; */
+  background-position: right;
   background-repeat: no-repeat;
   background-size: cover;
 }
